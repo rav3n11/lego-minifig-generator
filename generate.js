@@ -27,13 +27,22 @@ const result = `
               .jeans-back{fill: ${jeans_back_color};}
               .jeans-front{fill: ${jeans_front_color};}
               .jeans-dark{fill: ${jeans_dark_color};}
-              
+              ${styles.sad_l_style}
+              ${styles.love_e_style}
+              ${styles.freddie_style}
+              ${styles.tongue_style}
+              ${styles.pain_style}
+              ${styles.mustache_style}
+              ${styles.aviator_style}
+              ${styles.tired_style}
+              ${styles.dead_style}
+              ${styles.snow_style}
           </style>
       </defs>
       ${template.legs}
       ${template.torso}
       ${template.head}
-      ${template.wink}    
+      ${template.snowman}    
   </svg>
   `;
 

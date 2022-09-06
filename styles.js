@@ -1,70 +1,27 @@
-exports.le_style = `.le-1 {
-    fill: #2b1907;
-}
-
-.le-2 {
-    fill: #312709;
-}
-
-.le-3 {
-    fill: #504005;
-}
-
-.le-4 {
-    fill: #5c4905;
-}
-
-.le-5 {
-    fill: #311b07;
-}
-
-.le-6 {
-    fill: #331203;
-}
-
-.le-7 {
+exports.love_e_style = `..love-e-1 {
     fill: #611a07;
 }
 
-.le-8 {
-    fill: #210;
-}
-
-.le-9 {
+.love-e-2 {
     fill: #b6311f;
 }
 
-.le-10 {
-    fill: #60460c;
-}
-
-.le-11 {
-    fill: #321705;
-}
-
-.le-12 {
-    fill: #3b1b03;
-}
-
-.le-13 {
+.love-e-3 {
     fill: #ba3804;
 }
 
-.le-14 {
+.love-e-4 {
     fill: #f8e3dd;
 }
 
-.le-15 {
+.love-e-5 {
     fill: #a82a14;
 }
 
-.le-16 {
-    fill: #140207;
-}
-
-.le-17 {
+.love-e-6 {
     fill: #f6bcb2;
-}`;
+};`
+
 exports.mx_style = `
 .mx-1 {
     fill: #050608;
@@ -787,5 +744,306 @@ exports.wnk_style = `
 
 .wnk-10 {
     fill: #d5d7d8;
+}
+`
+exports.sad_l_style = `
+.sad-l-1 {
+    fill: #a03a09;
+}
+
+.sad-l-2 {
+    fill: #d0cbcc;
+}
+
+.sad-l-3 {
+    fill: #eeeeef;
+}
+
+.sad-l-4 {
+    fill: #8f2310;
+}
+`
+exports.freddie_style = `
+.fred-1 {
+    fill: #3f3469;
+}
+
+.fred-2 {
+    fill: #322d18;
+}
+
+.fred-3 {
+    fill: #3e336e;
+}
+
+.fred-4 {
+    fill: #614e5d;
+}
+
+.fred-5 {
+    fill: #3e2f68;
+}
+
+.fred-6 {
+    fill: #040b1c;
+}
+
+.fred-7 {
+    fill: #362f5d;
+}
+
+.fred-8 {
+    fill: #493b5d;
+}
+
+.fred-9 {
+    fill: #352a84;
+}
+
+.fred-10 {
+    fill: #f1f3f3;
+}
+
+.fred-11 {
+    fill: #464948;
+}
+
+.fred-12 {
+    fill: #767877;
+}
+
+.fred-13 {
+    fill: #030c1b;
+}
+
+.fred-14 {
+    fill: #403269;
+}
+
+.fred-15 {
+    fill: #06122d;
+}
+
+.fred-16 {
+    fill: #3f2e85;
+}
+
+.fred-17 {
+    fill: #848686;
+}
+
+.fred-18 {
+    fill: #c5c8c7;
+}
+`
+exports.tongue_style = `
+.tung-1 {
+    fill: #321004;
+}
+
+.tung-2 {
+    fill: #b62713;
+}
+
+.tung-3 {
+    fill: #e5e7e6;
+}
+
+.tung-4 {
+    fill: #dedcdd;
+}
+
+.tung-5 {
+    fill: #d2d4d3;
+}
+
+.tung-6 {
+    fill: #21120b;
+}
+
+.tung-7 {
+    fill: #44331d;
+}
+
+.tung-8 {
+    fill: #7d7f7e;
+}
+
+.tung-9 {
+    fill: #bdc0bd;
+}
+
+.tung-10 {
+    fill: #c6c3c3;
+}
+`
+exports.pain_style = `
+.pain-1 {
+    opacity: 0.4;
+}
+
+.pain-2 {
+    fill: #eeedef;
+}
+`
+exports.mustache_style = `
+.stache-1 {
+    fill: #713205;
+}
+
+.stache-2 {
+    fill: #763c05;
+}
+
+.stache-3 {
+    fill: #7c370e;
+}
+
+.stache-4 {
+    fill: #855004;
+}
+
+.stache-5 {
+    fill: #7b4502;
+}
+
+.stache-6 {
+    fill: #8e5906;
+}
+
+.stache-7 {
+    fill: #6e300a;
+}
+
+.stache-8 {
+    fill: #70300e;
+}
+
+.stache-9 {
+    fill: #712d13;
+}
+
+.stache-10 {
+    fill: #eff2ed;
+}
+
+.stache-11 {
+    fill: #bebdc5;
+}
+`
+exports.aviator_style = `
+.av-1 {
+    fill: #c0c9c8;
+}
+
+.av-2 {
+    fill: #a4aab8;
+}
+
+.av-3 {
+    fill: #a9b0b9;
+}
+
+.av-4 {
+    fill: #8f9aa4;
+}
+
+.av-5 {
+    fill: #031011;
+}
+
+.av-6 {
+    fill: #0e1214;
+}
+`
+exports.tired_style = `
+.tired-1 {
+    fill: #b6b9ba;
+}
+
+.tired-2 {
+    fill: #b8bab8;
+}
+`
+exports.dead_style = `
+.xx-1 {
+    fill: #040404;
+}
+`
+exports.snow_style = `
+.snow-1 {
+    fill: #040404;
+}
+
+.snow-2 {
+    fill: #c81010;
+}
+
+.snow-3 {
+    fill: #383a37;
+}
+
+.snow-4 {
+    fill: #353837;
+}
+
+.snow-5 {
+    fill: #1a7d46;
+}
+
+.snow-6 {
+    fill: #171716;
+}
+
+.snow-7 {
+    fill: #efa636;
+}
+
+.snow-8 {
+    fill: #d2d2d0;
+}
+
+.snow-9 {
+    fill: #2a2a27;
+}
+
+.snow-10 {
+    fill: #535451;
+}
+
+.snow-11 {
+    fill: #5c5e58;
+}
+
+.snow-12 {
+    fill: #dd050c;
+}
+
+.snow-13 {
+    fill: #2d7a5b;
+}
+
+.snow-14 {
+    fill: #298963;
+}
+
+.snow-15 {
+    fill: #1a623c;
+}
+
+.snow-16 {
+    fill: #f57906;
+}
+
+.snow-17 {
+    fill: #272524;
+}
+
+.snow-18 {
+    fill: #565553;
+}
+
+.snow-19 {
+    fill: #f2222d;
 }
 `

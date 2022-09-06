@@ -52,5 +52,5 @@ fs.writeFile("./minifig.svg", result, (err) => {
   if (err) {
     return console.err(err);
   }
-  console.log("Minifig generated");
+  console.log("Minifig Generated!");
 });

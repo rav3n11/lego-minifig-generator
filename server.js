@@ -6,6 +6,8 @@ const path = require('path')
 
 const minifigRouter = require('./routes/minifig')
 
+const PORT = process.env.PORT || 3000
+
 // Middlewares to parse request body and incoming URL as well as allow
 // Cross Origin Resource Sharing
 server.use(express.json())
@@ -29,7 +31,7 @@ server.use((err, req, res, next) => {
 })
 
 // Making server listen
-server.listen(4000, () => {
-    console.log('Listening on port 4000 . . . ')
+server.listen(PORT, () => {
+    console.log(`Listening on port ${PORT} . . . `)
 })
 

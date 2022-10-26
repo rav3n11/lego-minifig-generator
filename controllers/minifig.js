@@ -12,7 +12,7 @@ function os_func() {
     });
   };
 }
-var os = new os_func();
+let os = new os_func();
 
 exports.getMinifig = async (req, res) => {
   try {

@@ -63,7 +63,16 @@ exports.faces = [
   template.tired,
   template.tongue,
   template.wink,
+  template.bald
 ];
+exports.hair = [
+  template.bald,
+  template.balding,
+  template.bangs,
+  template.bangs2,
+  template.bangs3,
+];
+
 exports.jeans_color = ["#3a80e2", "#104fc8", "#042ba7"];
 exports.black_pants_color = ["#444444", "#444444", "#000000"];
 exports.styles_inject = `
@@ -85,4 +94,5 @@ exports.styles_inject = `
     ${styles.smug_style}              
     ${styles.wink_style}              
     ${styles.chad_style}  
+    ${styles.bald_style}
 `;

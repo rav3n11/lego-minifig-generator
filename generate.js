@@ -4,6 +4,11 @@ const assets = require("./assets")
 
 const chooseFace = () => {
   let num = Math.floor(Math.random() * assets.faces.length)
+  //Temporary solution till I add face colors
+  if(num === 18) {
+    skin_color = assets.skin_colors[3]
+    return assets.faces[num]
+  }
   return assets.faces[num]
 }
 
@@ -44,7 +49,7 @@ const result =
       ${template.legs}
       ${template.torso}
       ${template.head}
-      ${chooseFace()}    
+      ${chooseFace()}  
   </svg>
   `;
 

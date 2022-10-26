@@ -1302,3 +1302,195 @@ exports.chad_style = `
     fill: #c5bcb7;
 }
 `
+exports.bald_style = `
+.bald-1 {
+    fill: #f7d021;
+}
+
+.bald-2 {
+    fill: #8f8b84;
+}
+
+.bald-3 {
+    fill: #efc529;
+}
+
+.bald-4 {
+    fill: #95948c;
+}
+
+.bald-5 {
+    fill: #94938c;
+}
+
+.bald-6 {
+    fill: #837970;
+}
+
+.bald-7 {
+    fill: #c3a84d;
+}
+
+.bald-8 {
+    fill: #696556;
+}
+
+.bald-9 {
+    fill: #717270;
+}
+
+.bald-10 {
+    fill: #c7b14e;
+}
+
+.bald-11 {
+    fill: #a0967c;
+}
+
+.bald-12 {
+    fill: #645c57;
+}
+
+.bald-13 {
+    fill: #c4af5f;
+}
+
+.bald-14 {
+    fill: #b29b4f;
+}
+
+.bald-15 {
+    fill: #f7d949;
+}
+
+.bald-16 {
+    fill: #d9a904;
+}
+
+.bald-17 {
+    fill: #86817c;
+}
+
+.bald-18 {
+    fill: #d0ae40;
+}
+
+.bald-19 {
+    fill: #ab984c;
+}
+
+.bald-20 {
+    fill: #c0ad2e;
+}
+
+.bald-21 {
+    fill: #8d8c86;
+}
+
+.bald-22 {
+    fill: #272007;
+}
+
+.bald-23 {
+    fill: #231f20;
+}
+
+.bald-24 {
+    fill: #898060;
+}
+
+.bald-25 {
+    fill: #1c1703;
+}
+
+.bald-26 {
+    fill: #f1ce2e;
+}
+
+.bald-27 {
+    fill: #efc217;
+}
+
+.bald-28 {
+    fill: #f4cf26;
+}
+
+.bald-29 {
+    fill: #ddc842;
+}
+
+.bald-30 {
+    fill: #e9d453;
+}
+
+.bald-31 {
+    fill: #85837e;
+}
+
+.bald-32 {
+    fill: #b6a25a;
+}
+
+.bald-33 {
+    fill: #9c8e5f;
+}
+
+.bald-34 {
+    fill: #221a09;
+}
+
+.bald-35 {
+    fill: #161002;
+}
+
+.bald-36 {
+    fill: #120b00;
+}
+
+.bald-37 {
+    fill: #9a8e59;
+}
+
+.bald-38 {
+    fill: #483906;
+}
+
+.bald-39 {
+    fill: #f6d020;
+}
+
+.bald-40 {
+    fill: #ddb926;
+}
+
+.bald-41 {
+    fill: #d5ab27;
+}
+
+.bald-42 {
+    fill: #f6cd2f;
+}
+
+.bald-43 {
+    fill: #938e78;
+}
+
+.bald-44 {
+    fill: #251e08;
+}
+
+.bald-45 {
+    fill: #1c130f;
+}
+
+.bald-46 {
+    fill: #e0bd45;
+}
+
+.bald-47 {
+    fill: #c0a119;
+}
+
+.bald-48 {
+    fill: #d1d4c1;
+}`

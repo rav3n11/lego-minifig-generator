@@ -1,7 +1,7 @@
 const template = require("./templates");
 const styles = require("./styles");
 
-exports.skin_colors = ["#F6D7B3", "#D09168", "#AA7D55", "#F2CD37"];
+exports.skin_colors = ["#503335","#F6D7B3", "#D09168", "#AA7D55", "#F2CD37"]; // solving racism 
 exports.lego_colors = [
   "#05131D",
   "#0055BF",

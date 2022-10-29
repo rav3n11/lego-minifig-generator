@@ -53,6 +53,7 @@ exports.faces = [
   template.happy,
   template.lady,
   template.love_eyes,
+  template.rich_eyes,
   template.mexican,
   template.mustache,
   template.pain,
@@ -78,6 +79,7 @@ exports.black_pants_color = ["#444444", "#444444", "#000000"];
 exports.styles_inject = `
     ${styles.sad_l_style}
     ${styles.love_e_style}
+    ${styles.rich_e_style}
     ${styles.freddie_style}
     ${styles.tongue_style}
     ${styles.pain_style}

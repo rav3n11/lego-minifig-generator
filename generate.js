@@ -24,9 +24,9 @@ const choosePants = () => {
   return num % 2 === 0 ? assets.jeans_color : assets.black_pants_color
 }
 
-let skin_color = process.argv[0] ?? chooseSkinColor();
-let torso_color = process.argv[1] ?? chooseLegoColor();
-let pants_color = process.argv[2] ?? choosePants();
+let skin_color = chooseSkinColor();
+let torso_color = chooseLegoColor();
+let pants_color = choosePants();
 
 const result = 
 `

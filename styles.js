@@ -1,5 +1,5 @@
 exports.love_e_style = `..love-e-1 {
-    fill: #611a07;
+    fill: #b6311f;
 }
 
 .love-e-2 {
@@ -7,7 +7,7 @@ exports.love_e_style = `..love-e-1 {
 }
 
 .love-e-3 {
-    fill: #ba3804;
+    fill: #b6311f;
 }
 
 .love-e-4 {
@@ -15,11 +15,35 @@ exports.love_e_style = `..love-e-1 {
 }
 
 .love-e-5 {
-    fill: #a82a14;
+    fill: #b6311f;
 }
 
 .love-e-6 {
     fill: #f6bcb2;
+};`
+
+exports.rich_e_style = `..rich-e-1 {
+    fill: #85bb65;
+}
+
+.rich-e-2 {
+    fill: #85bb65;
+}
+
+.rich-e-3 {
+    fill: #ba3804;
+}
+
+.rich-e-4 {
+    fill: #e8f3dd;
+}
+
+.rich-e-5 {
+    fill: #85bb65;
+}
+
+.rich-e-6 {
+    fill: #d6fcd2;
 };`
 
 exports.mx_style = `

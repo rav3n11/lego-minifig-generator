@@ -6,7 +6,7 @@ The idea is to create a random svg lego minifigure kind of like the [https://rob
  A long way to go till its finished though...
 
 ## API is on [generator.berekett.me/api](https://generator.berekett.me/api)
-It's on render's free tier servers so, it might be unresponsive or slow at times
+It's on render's free tier servers so, it might be unresponsive or slow at times. Also if images don't load when first opening, please refresh, cold starts are a bi**h.
 
 ## Website is on [easteregg.berekett.me](easteregg.berekett.me)
 
